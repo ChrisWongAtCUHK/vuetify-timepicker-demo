@@ -1,3 +1,4 @@
+[VUETIFY PLAY](https://play.vuetifyjs.com/#eNpVjr0OwjAMhF/FZAlIQHcUkNh4AwZgqIKLIvJjJW6Xqu9Oknagi+X75LvzYxQp6uZKdBx6FCehGB3ZlvHy9ABqOLREda1CB8+t8RgXVCEbhwcy+puxatZ6cWa6thYyJ6vmrzHLpKMhhoTcz8XGUYgMI0TsYIIuBgcyPyvLOUDOTQwufeBcLrbyhtYGuIdo3xu5KwVzZA4T09731tbx+gEP1FSv)
 # Vuetify (Default)
 
 This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
